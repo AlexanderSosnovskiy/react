@@ -1,0 +1,9 @@
+{
+  "files": {
+    "public/main.js": "/bundle.js",
+    "public/main.js.map": "/bundle.js.map",
+    "public/border.svg": "/a1b88590f8e6bc5281b7f4ecfdd9b561.svg",
+    "public/logo.svg": "/d6f51770af5ce23e7090f6b152fe414f.svg",
+    "public/index.html": "/index.html"
+  }
+}
